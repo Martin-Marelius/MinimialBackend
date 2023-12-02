@@ -1,6 +1,3 @@
-Certainly! Here's the complete README in markdown format:
-
-```markdown
 # Dynamic CRUD API
 
 This repository provides a CRUD (Create, Read, Update, Delete) API for dynamic types. It allows for quick testing of frontend applications by providing a dynamically typed REST API that can store values and perform various methods.
@@ -95,6 +92,3 @@ Feel free to contribute to this project. Please follow the [Contribution Guideli
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
-```
-
-You can copy and paste this markdown into your README.md file. Adjust any placeholder information as needed for your specific project.
